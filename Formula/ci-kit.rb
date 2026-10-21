@@ -4,7 +4,7 @@ class CiKit < Formula
   url "https://github.com/omeiza-workspace/ci-kit/releases/download/v0.1.0/ci-kit-v0.1.0.tar.gz"
   version "0.1.0"
   license "MIT"
-  sha256 "9d6e72cece7f40e4651b951f454cc8070e2b39bba3866b1469a981337cbda5e0"
+  sha256 "06c343d7cdfb33afbd68d109030b69fcd028293c15fc1fa60756a7a9cd24c49c"
 
   depends_on "node"
 
